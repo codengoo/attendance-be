@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Trang-1" id="A_eeGlD88GL2Km3bQYaJ">
-    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2390" dy="1257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,13 +11,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gii7YrUVnjGIDU6zJAtJ-1" value="Guest" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="130" width="30" height="60" as="geometry" />
+          <mxGeometry x="55" y="40" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gii7YrUVnjGIDU6zJAtJ-2" value="Login" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="310" y="145" width="120" height="30" as="geometry" />
+          <mxGeometry x="295" y="55" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gii7YrUVnjGIDU6zJAtJ-4" value="Checkin/Checkout" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="310" y="197" width="120" height="30" as="geometry" />
+          <mxGeometry x="295" y="107" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Gii7YrUVnjGIDU6zJAtJ-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Gii7YrUVnjGIDU6zJAtJ-6" target="Gii7YrUVnjGIDU6zJAtJ-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -29,10 +29,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gii7YrUVnjGIDU6zJAtJ-6" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="270" width="30" height="60" as="geometry" />
+          <mxGeometry x="55" y="180" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aDHjPS7s_MSOJD6Ffrus-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gii7YrUVnjGIDU6zJAtJ-7" target="aDHjPS7s_MSOJD6Ffrus-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aDHjPS7s_MSOJD6Ffrus-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="aDHjPS7s_MSOJD6Ffrus-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="420" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aDHjPS7s_MSOJD6Ffrus-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gii7YrUVnjGIDU6zJAtJ-7" target="aDHjPS7s_MSOJD6Ffrus-6">
           <mxGeometry relative="1" as="geometry" />
@@ -56,7 +58,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gii7YrUVnjGIDU6zJAtJ-7" value="Teacher" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="600" y="480" width="30" height="60" as="geometry" />
+          <mxGeometry x="585" y="390" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aDHjPS7s_MSOJD6Ffrus-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gii7YrUVnjGIDU6zJAtJ-8" target="aDHjPS7s_MSOJD6Ffrus-6">
           <mxGeometry relative="1" as="geometry" />
@@ -80,13 +82,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gii7YrUVnjGIDU6zJAtJ-8" value="Assistant Teacher&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="503" width="30" height="60" as="geometry" />
+          <mxGeometry x="55" y="413" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aDHjPS7s_MSOJD6Ffrus-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gii7YrUVnjGIDU6zJAtJ-9" target="aDHjPS7s_MSOJD6Ffrus-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gii7YrUVnjGIDU6zJAtJ-9" value="Education Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="600" y="920" width="30" height="60" as="geometry" />
+          <mxGeometry x="585" y="830" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aDHjPS7s_MSOJD6Ffrus-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gii7YrUVnjGIDU6zJAtJ-10" target="aDHjPS7s_MSOJD6Ffrus-29">
           <mxGeometry relative="1" as="geometry" />
@@ -98,13 +100,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gii7YrUVnjGIDU6zJAtJ-10" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="750" width="30" height="60" as="geometry" />
+          <mxGeometry x="55" y="660" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Gii7YrUVnjGIDU6zJAtJ-12" value="View attendance history" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="310" y="243" width="120" height="40" as="geometry" />
+          <mxGeometry x="295" y="153" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gii7YrUVnjGIDU6zJAtJ-14" value="Make off request" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="310" y="300" width="120" height="30" as="geometry" />
+          <mxGeometry x="295" y="210" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aDHjPS7s_MSOJD6Ffrus-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aDHjPS7s_MSOJD6Ffrus-1" target="aDHjPS7s_MSOJD6Ffrus-2">
           <mxGeometry relative="1" as="geometry" />
@@ -115,43 +117,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aDHjPS7s_MSOJD6Ffrus-1" value="Invite AT" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="710" y="495" width="120" height="30" as="geometry" />
+          <mxGeometry x="685" y="405" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aDHjPS7s_MSOJD6Ffrus-2" value="Asign permission" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="980" y="487.5" width="80" height="45" as="geometry" />
+          <mxGeometry x="705" y="510" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="aDHjPS7s_MSOJD6Ffrus-6" value="Add attendance record manual" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="310" y="350" width="120" height="40" as="geometry" />
+          <mxGeometry x="295" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aDHjPS7s_MSOJD6Ffrus-8" value="Manage attendance record" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="310" y="407" width="120" height="40" as="geometry" />
+          <mxGeometry x="295" y="317" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aDHjPS7s_MSOJD6Ffrus-11" value="Create attendance session" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="310" y="463" width="120" height="40" as="geometry" />
+          <mxGeometry x="295" y="373" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aDHjPS7s_MSOJD6Ffrus-12" value="Create report" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="310" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="295" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aDHjPS7s_MSOJD6Ffrus-13" value="View dashboard" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="310" y="577" width="120" height="40" as="geometry" />
+          <mxGeometry x="295" y="487" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aDHjPS7s_MSOJD6Ffrus-14" value="Approve off request" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="310" y="633" width="120" height="40" as="geometry" />
+          <mxGeometry x="295" y="543" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aDHjPS7s_MSOJD6Ffrus-15" value="Access invite" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="310" y="690" width="120" height="40" as="geometry" />
+          <mxGeometry x="295" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aDHjPS7s_MSOJD6Ffrus-29" value="Update settings" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="310" y="750" width="120" height="40" as="geometry" />
+          <mxGeometry x="295" y="660" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aDHjPS7s_MSOJD6Ffrus-30" value="Create user" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="310" y="810" width="120" height="40" as="geometry" />
+          <mxGeometry x="295" y="720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aDHjPS7s_MSOJD6Ffrus-31" value="Create class" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="310" y="870" width="120" height="40" as="geometry" />
+          <mxGeometry x="295" y="780" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aDHjPS7s_MSOJD6Ffrus-32" value="Create report from various scopes" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="310" y="930" width="120" height="40" as="geometry" />
+          <mxGeometry x="295" y="840" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
